@@ -109,7 +109,7 @@ fen1=Tk()
 fen1.title('Math\xe9matux')
 fen1.geometry('1000x600')
 
-tex1=Label(fen1, text='Bienvenue sur Math\xe9matux ! Veuillez entrez votre formule.', fg='black', bg='white')
+tex1=Label(fen1, text='Bienvenue sur Math\xe9matux ! Veuillez entrer votre formule.', fg='black', bg='white')
 #Pour faire en sorte que l'affichage ne se superpose
 saisie1=IntVar()
 der1=StringVar()
