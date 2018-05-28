@@ -1,2 +1,2 @@
-# Math-matux
+# Mathématux
 School project
