@@ -59,7 +59,7 @@ def c (): # Les racines // a doit être différent de 0 ! (on ne peut pas divise
 def d (): #Dérivée  é= \xe9
     deriv= (2*float(entree1.get()))
     der1.set(deriv)
-    texderiv= Label(fen1, text= 'dérivée de f:').grid(row=6, column=8)
+    texderiv= Label(fen1, text= 'd\xe9riv\xe9e de f:').grid(row=6, column=8)
     textderivsol= Label(fen1, textvariable=der1).grid(row=6, column=9)
 
     textderivsol2= Label(fen1, text='x +').grid(row=6, column=10)
